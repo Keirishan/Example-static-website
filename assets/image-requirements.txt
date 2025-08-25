@@ -1,0 +1,26 @@
+/* Placeholder files for images used in the website
+   Replace these with actual images for your company
+
+   Required images:
+   - hero-image.jpg (1200x800px) - Hero section background
+   - about-image.jpg (600x400px) - About page image
+   - team-member-1.jpg (300x300px) - Team member photo
+   - team-member-2.jpg (300x300px) - Team member photo
+   - team-member-3.jpg (300x300px) - Team member photo
+   - client-1.jpg (100x100px) - Client testimonial photo
+   - client-2.jpg (100x100px) - Client testimonial photo
+   - client-3.jpg (100x100px) - Client testimonial photo
+
+   Image optimization tips:
+   1. Use WebP format when possible for better compression
+   2. Provide fallback JPG images for older browsers
+   3. Use appropriate image sizes for different screen resolutions
+   4. Compress images to reduce file size while maintaining quality
+   5. Consider using a CDN for faster image delivery
+
+   Tools for image optimization:
+   - TinyPNG (online compression)
+   - ImageOptim (Mac)
+   - Squoosh (Google's online tool)
+   - Sharp (Node.js library)
+*/
